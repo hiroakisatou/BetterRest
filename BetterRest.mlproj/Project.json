@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-03-25T12:32:02Z",
+        "event" : "projectCreated",
+        "id" : "F9E7AF3D-5436-4A4C-B2E8-18FA48D27A72",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "tsu-na-gu",
+  "createdDate" : "2026-03-25T12:32:02Z",
+  "description" : "",
+  "id" : "3EFF53D8-9F10-46BB-9A8D-1B98DAF9DDE5",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-03-25T12:32:02Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
